@@ -1,7 +1,4 @@
 A list of all technologies that I have good experience with
-<br>
-If you asked me to make an app using any of the following, i'm confident enough that i'll be able to do it.
-
 # Web development / Front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
